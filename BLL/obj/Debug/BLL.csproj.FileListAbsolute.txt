@@ -1,0 +1,5 @@
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\BLL\bin\Debug\BLL.dll
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\BLL\bin\Debug\BLL.pdb
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\BLL\obj\Debug\BLL.dll
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\BLL\obj\Debug\BLL.pdb

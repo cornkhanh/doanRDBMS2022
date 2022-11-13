@@ -1,0 +1,9 @@
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\DAL\bin\Debug\DAL.dll
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\DAL\bin\Debug\DAL.pdb
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\DAL\bin\Debug\BLL.dll
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\DAL\bin\Debug\BLL.pdb
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\DAL\obj\Debug\DAL.dll
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\DAL\obj\Debug\DAL.pdb

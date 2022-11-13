@@ -1,0 +1,11 @@
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\TestConsole\bin\Debug\TestConsole.exe.config
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\TestConsole\bin\Debug\TestConsole.exe
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\TestConsole\bin\Debug\TestConsole.pdb
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\TestConsole\bin\Debug\DAL.dll
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\TestConsole\bin\Debug\DAL.pdb
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\TestConsole\obj\Debug\TestConsole.csproj.AssemblyReference.cache
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\TestConsole\obj\Debug\TestConsole.csproj.SuggestedBindingRedirects.cache
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\TestConsole\obj\Debug\TestConsole.csproj.CoreCompileInputs.cache
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\TestConsole\obj\Debug\TestConsole.csproj.CopyComplete
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\TestConsole\obj\Debug\TestConsole.exe
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\TestConsole\obj\Debug\TestConsole.pdb

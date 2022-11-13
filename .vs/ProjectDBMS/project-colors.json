@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "976bf8d9-71a2-4195-b253-1a2be1ceb01b": {
+      "ProjectGuid": "976bf8d9-71a2-4195-b253-1a2be1ceb01b",
+      "DisplayName": "ProjectDBMS",
+      "ColorIndex": 0
+    },
+    "d4667a3b-57fe-41ed-abeb-7b8721a257de": {
+      "ProjectGuid": "d4667a3b-57fe-41ed-abeb-7b8721a257de",
+      "DisplayName": "DAL",
+      "ColorIndex": 1
+    },
+    "098208b4-7ade-4ad7-a946-a1c457be856a": {
+      "ProjectGuid": "098208b4-7ade-4ad7-a946-a1c457be856a",
+      "DisplayName": "BLL",
+      "ColorIndex": 2
+    },
+    "fb526ffe-c7b6-4794-a54f-90373b7e8287": {
+      "ProjectGuid": "fb526ffe-c7b6-4794-a54f-90373b7e8287",
+      "DisplayName": "PSL",
+      "ColorIndex": 3
+    },
+    "cc9dc2ce-7ffd-4ef3-afab-37b0969d999a": {
+      "ProjectGuid": "cc9dc2ce-7ffd-4ef3-afab-37b0969d999a",
+      "DisplayName": "TestConsole",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

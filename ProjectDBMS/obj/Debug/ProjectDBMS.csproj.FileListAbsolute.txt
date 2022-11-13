@@ -1,0 +1,17 @@
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\ProjectDBMS\bin\Debug\ProjectDBMS.exe.config
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\ProjectDBMS\bin\Debug\ProjectDBMS.exe
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\ProjectDBMS\bin\Debug\ProjectDBMS.pdb
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\ProjectDBMS\obj\Debug\ProjectDBMS.csproj.AssemblyReference.cache
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\ProjectDBMS\obj\Debug\ProjectDBMS.csproj.SuggestedBindingRedirects.cache
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\ProjectDBMS\obj\Debug\ProjectDBMS.frmMain.resources
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\ProjectDBMS\obj\Debug\ProjectDBMS.Properties.Resources.resources
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\ProjectDBMS\obj\Debug\ProjectDBMS.csproj.GenerateResource.cache
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\ProjectDBMS\obj\Debug\ProjectDBMS.csproj.CoreCompileInputs.cache
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\ProjectDBMS\obj\Debug\ProjectDBMS.exe
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\ProjectDBMS\obj\Debug\ProjectDBMS.pdb
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\ProjectDBMS\bin\Debug\TestConsole.exe
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\ProjectDBMS\bin\Debug\DAL.dll
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\ProjectDBMS\bin\Debug\TestConsole.pdb
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\ProjectDBMS\bin\Debug\TestConsole.exe.config
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\ProjectDBMS\bin\Debug\DAL.pdb
+D:\TongHopMonHoc-SPKT\Nam3\HK1\HeQuanTriCSDL\ProjectDBMS\ProjectDBMS\obj\Debug\ProjectDBMS.csproj.CopyComplete
